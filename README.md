@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Software Engineering student at FIUBA, and a Jr. Cloud Architect @Nubiral from <b>Argentina 🇦🇷</b> 」
+    「 I am a Software Engineering student @ FIUBA, and a Jr. Cloud Architect @ Nubiral from <b>Argentina 🇦🇷</b> 」
     <br>
     <br>
   </samp>
@@ -21,11 +21,8 @@
  <a href="www.linkedin.com/in/johnoconnor0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John O'Connor"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
 </p>
-<br />
+<br/>
 
 <!-- About Section -->
  # About me
