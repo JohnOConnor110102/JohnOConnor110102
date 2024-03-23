@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Software Engineering student @ FIUBA, and a Jr. Cloud Architect @ Nubiral from <b>Argentina 🇦🇷</b> 」
+    「 I am a Software Engineering student @ FIUBA, and a Jr. Cloud Architect ☁️ @ Nubiral from <b>Argentina 🇦🇷</b> 」
     <br>
     <br>
   </samp>
