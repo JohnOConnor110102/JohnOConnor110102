@@ -58,11 +58,12 @@
 <br/>
 
 ## Certifications
-I am proud to have earned the following certification, which validates my knowledge and skills in cloud computing:
+I am proud to have earned the following certifications, which validate my knowledge and skills in cloud computing:
 
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### AWS Certified Cloud Practitioner 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified Cloud Practitioner Badge](badges/aws_certified_cloud_practitioner.png)
 
-### AWS Certified Cloud Practitioner
 As an AWS Certified Cloud Practitioner, I possess a solid understanding of the AWS cloud, including its infrastructure, key services, and best practices for security and compliance.
 
 #### What I've Learned:
@@ -71,17 +72,31 @@ As an AWS Certified Cloud Practitioner, I possess a solid understanding of the A
 - Basic principles of security and compliance on the AWS platform.
 - Billing and pricing models to optimize AWS costs.
 
-View my credential [here](https://www.credly.com/badges/31adf5a1-f6b7-41ae-a2db-6b6b68e3b940/linked_in_profile)!
+View my credential [here](https://www.credly.com/badges/31adf5a1-f6b7-41ae-a2db-6b6b68e3b940/linked_in_profile).
+
+### AWS Certified Solutions Architect - Associate
+As an AWS Certified Solutions Architect - Associate, I am proficient in designing scalable, elastic, secure, and highly available systems on AWS. This certification demonstrates my ability to architect and deploy applications on AWS technologies.
+
+#### What I've Learned:
+- Effective architectural design strategies for building applications on AWS.
+- Selection of the appropriate AWS services to design and deploy an application based on given requirements.
+- Understanding of the AWS global infrastructure and network technologies as they relate to AWS.
+- Security features and tools that AWS provides and how they relate to traditional services.
+
+View my credential [here](https://www.credly.com/badges/9c0c34fe-23ca-4f2a-9218-9be95b947308/public_url)!
+
 
 ## Lifelong Learning and Upcoming Goals
 I am committed to continuous learning and expanding my toolkit of skills. I believe in keeping up-to-date with the latest technologies and methodologies to deliver the best results in the fast-paced world of IT.
 
 ### Currently Studying
-I am currently studying for the AWS Solutions Architect Associate certification to deepen my expertise in designing distributed systems on the AWS platform. This journey is enhancing my understanding of AWS services and architectural best practices.
+I am currently focusing my studies on two advanced AWS certifications: the AWS Solutions Architect Professional and the AWS Security Specialty. These certifications are sharpening my abilities in designing highly scalable, secure, and robust systems on AWS, as well as deepening my understanding of AWS security protocols and mechanisms.
 
-- ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-I am excited about the opportunity to further expand my knowledge and apply these advanced cloud solutions to real-world problems.
+I am excited about the opportunity to further expand my knowledge and apply these advanced cloud solutions and security measures to real-world problems.
+
 
 
 ## Top Open Source -
