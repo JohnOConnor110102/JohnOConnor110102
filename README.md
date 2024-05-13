@@ -15,9 +15,6 @@
 </p>
 
 <p align="center">
- <!--<a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>-->
  <a href="www.linkedin.com/in/johnoconnor0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John O'Connor"/>
  </a>
@@ -59,10 +56,14 @@
 
 ## Certifications
 I am proud to have earned the following certifications, which validate my knowledge and skills in cloud computing:
+<div align="center">
+    <img src="icons/AWS-Certified-Solutions-Architect-Associate.png" alt="AWS Certified Solutions Architect - Associate Badge" width="200">
+    <img src="icons/AWS-Certified-Cloud-Practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="200">
+</div>
+
 
 ### AWS Certified Cloud Practitioner 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Certified Cloud Practitioner Badge](badges/aws_certified_cloud_practitioner.png)
 
 As an AWS Certified Cloud Practitioner, I possess a solid understanding of the AWS cloud, including its infrastructure, key services, and best practices for security and compliance.
 
@@ -75,6 +76,8 @@ As an AWS Certified Cloud Practitioner, I possess a solid understanding of the A
 View my credential [here](https://www.credly.com/badges/31adf5a1-f6b7-41ae-a2db-6b6b68e3b940/linked_in_profile).
 
 ### AWS Certified Solutions Architect - Associate
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 As an AWS Certified Solutions Architect - Associate, I am proficient in designing scalable, elastic, secure, and highly available systems on AWS. This certification demonstrates my ability to architect and deploy applications on AWS technologies.
 
 #### What I've Learned:
@@ -92,11 +95,12 @@ I am committed to continuous learning and expanding my toolkit of skills. I beli
 ### Currently Studying
 I am currently focusing my studies on two advanced AWS certifications: the AWS Solutions Architect Professional and the AWS Security Specialty. These certifications are sharpening my abilities in designing highly scalable, secure, and robust systems on AWS, as well as deepening my understanding of AWS security protocols and mechanisms.
 
-- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
+    <img src="icons/AWS-Certified-Solutions-Architect-Professional.png" alt="AWS Certified Solutions Architect - Professional Badge" width="200">
+    <img src="icons/AWS-Certified-Security-Specialty.png" alt="AWS Certified Security Specialty Badge" width="200">
+</div>
 
 I am excited about the opportunity to further expand my knowledge and apply these advanced cloud solutions and security measures to real-world problems.
-
 
 
 ## Top Open Source -
