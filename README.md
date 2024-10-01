@@ -102,6 +102,8 @@ I am currently focusing my studies on two advanced AWS certifications: the AWS S
 
 I am excited about the opportunity to further expand my knowledge and apply these advanced cloud solutions and security measures to real-world problems.
 
+<!-- 
+
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
@@ -137,3 +139,5 @@ I am excited about the opportunity to further expand my knowledge and apply thes
 
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+-->
